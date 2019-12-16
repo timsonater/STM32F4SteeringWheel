@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SteeringWheelSTM32F4.PcbDoc   12/16/2019  2:36:50 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SteeringWheelSTM32F4.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             2         PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             38        PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             5         PTH        0.00inch (0.00mm)
+T4      41mil (1.04mm)                                            Round             8         PTH        0.00inch (0.00mm)
+T5      47mil (1.2mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T6      63mil (1.6mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T7      94mil (2.4mm)                                             Round             5         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              68
+
+Total Processing Time (hh:mm:ss) : 00:00:01
